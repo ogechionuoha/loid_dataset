@@ -1,0 +1,266 @@
+Akrotiri: 0
+American Samoa: 0
+Aruba: 0
+Ashmore and Cartier Islands: 0
+Bassas da India: 0
+Bouvet Island: 0
+British Indian Ocean Territory: 0
+Burma: 0
+Central African republic: 0
+Chad: 0
+Christmas Island: 0
+Clipperton island: 0
+Cocos (Keeling) Islands: 0
+Comoros: 0
+Congo: 0
+Coral Sea Islands: 0
+Dhekelia: 0
+Equatorial Gunea: 0
+French Guiana: 0
+French Polynesia: 0
+French Southern and Antarctic Lands: 0
+Gaza Strip: 0
+Glorioso Islands: 0
+Guyana: 0
+Heard Island and McDonald Islands: 0
+Hong Kong: 0
+Jan Mayen: 0
+Juan de Nova Island: 0
+Kiribati: 0
+Macau: 0
+Macedonia: 0
+Marshall Islands: 0
+Martinique: 0
+Mayotte: 0
+Nauru: 0
+Navassa island: 0
+Netherlands Antilles: 0
+New Caledonia: 0
+Niue: 0
+Norfolk Island: 0
+Northern Mariana Islands: 0
+Paracel Islands: 0
+Pitcairn islands: 0
+Puerto Rico: 0
+Reunion: 0
+Saint Kitts and Nevis: 0
+Saint Pierre and Miquelon: 0
+South Georgia and the South Sandwich Islands: 0
+Spratly Islands: 0
+Svalbard: 0
+Swaziland: 0
+Tajikistan: 0
+Tromelin Island: 0
+Tuvalu: 0
+Virgin islands: 0
+Wake Island: 0
+Wallis and Futuna: 0
+West Bank: 0
+Western Sahara: 0
+Ethiopia.csv: 68
+Stratford.csv: 345
+Netherlands.csv: 1409
+Georgia.csv: 947
+Turks_and_Caicos_Islands.csv: 70
+Iraq.csv: 9
+Barbados.csv: 1185
+Cook_Islands.csv: 67
+Philippines.csv: 398
+Albania.csv: 16621
+Lebanon.csv: 99
+Singapore.csv: 443
+Peru.csv: 395
+India.csv: 3694
+Jersey.csv: 128
+Bosnia_and_Herzegovina.csv: 10656
+Eritrea.csv: 2
+Saint_Vincent_and_the_Grenadines.csv: 3
+Denmark.csv: 550
+Palau.csv: 12
+Belarus.csv: 2
+Zimbabwe.csv: 13
+Antigua_and_Barbuda.csv: 1763
+Italy.csv: 7916
+Sri_Lanka.csv: 83
+Brunei.csv: 1261
+Faroe_Islands.csv: 3
+Romania.csv: 1122
+Chile.csv: 4238
+Lithuania.csv: 57
+Slovakia.csv: 90
+Slovenia.csv: 101
+Indonesia.csv: 1331
+Norway.csv: 545
+Mexico.csv: 2833
+Morocco.csv: 2902
+Botswana.csv: 85
+Belize.csv: 8161
+Federated_States_of_Micronesia.csv: 3
+Japan.csv: 2087
+Vietnam.csv: 600
+Gulf_of_Thailand.csv: 1
+Malta.csv: 197
+Uruguay.csv: 554
+Burkina_Faso.csv: 2
+Ireland.csv: 2360
+Uzbekistan.csv: 106
+Finland.csv: 422
+United_States.csv: 88892
+Croatia.csv: 10100
+Malawi.csv: 22
+Fiji.csv: 259
+Jordan.csv: 110
+Egypt.csv: 626
+Niger.csv: 2
+Trinidad_and_Tobago.csv: 304
+Democratic_Republic_of_the_Congo.csv: 348
+Papua_New_Guinea.csv: 4
+Costa_Rica.csv: 377
+Vanuatu.csv: 63
+Qatar.csv: 278
+Azerbaijan.csv: 11622
+Germany.csv: 3018
+Bhutan.csv: 6
+United_Arab_Emirates.csv: 1191
+Togo.csv: 147
+Saint_Lucia.csv: 76
+Pakistan.csv: 58
+Mauritania.csv: 9
+Bulgaria.csv: 28032
+Canada.csv: 64450
+Yemen.csv: 2
+Anguilla.csv: 34
+Dominican_Republic.csv: 308
+Bangladesh.csv: 5726
+Mali.csv: 4
+Suriname.csv: 17
+Serbia.csv: 1453
+France.csv: 6896
+Dominica.csv: 11
+The_Gambia.csv: 42
+Kuwait.csv: 145
+Thailand.csv: 12043
+Mauritius.csv: 199
+Portugal.csv: 1450
+Spain.csv: 9670
+Bermuda_Triangle.csv: 370
+Luxembourg.csv: 111
+Bahrain.csv: 1454
+Mongolia.csv: 6
+San_Marino.csv: 2
+Paraguay.csv: 1371
+Eswatini.csv: 5
+Nicaragua.csv: 49
+Turkmenistan.csv: 6
+Haiti.csv: 32
+Myanmar.csv: 11792
+Somalia.csv: 5
+Maldives.csv: 83
+Saint_Kitts_and_Nevis.csv: 40
+South_Africa.csv: 1915
+Guinea-Bissau.csv: 2
+British_Virgin_Islands.csv: 76
+Austria.csv: 2125
+Uganda.csv: 77
+Sudan.csv: 5
+Latvia.csv: 93
+Israel.csv: 303
+Mozambique.csv: 39
+Brazil.csv: 152956
+Benin.csv: 2110
+.csv: 2802
+Greece.csv: 4858
+Andorra.csv: 74
+North_Korea.csv: 47
+Moldova.csv: 5
+Sweden.csv: 837
+Burundi.csv: 8
+Seychelles.csv: 53
+Belgium.csv: 711
+Nepal.csv: 74
+Czechia.csv: 344
+Palestinian_Territory.csv: 4
+Gibraltar.csv: 16
+Laccadive_Sea.csv: 60
+Monaco.csv: 27
+Turkey.csv: 1902
+Cameroon.csv: 19
+Australia.csv: 110964
+Vatican_City.csv: 22
+Solomon_Islands.csv: 565
+Nigeria.csv: 123
+Oman.csv: 105
+Senegal.csv: 17
+Malaysia.csv: 1792
+North_Macedonia.csv: 2257
+Switzerland.csv: 1072
+Panama.csv: 176
+Jervis_Bay_Territory.csv: 17
+Montserrat.csv: 2
+Tonga.csv: 2
+Montenegro.csv: 3820
+Grenada.csv: 30
+Madagascar.csv: 27
+Bermuda.csv: 765
+United_Kingdom.csv: 13904
+Ecuador.csv: 154
+Cayman_Islands.csv: 741
+Gabon.csv: 40
+East_Timor.csv: 2
+Cyprus.csv: 237
+Côte_d'Ivoire.csv: 1
+Libya.csv: 11
+Syria.csv: 22
+Ascension_and_Tristan_da_Cunha.csv: 6
+Sierra_Leone.csv: 1
+Soul_Buoy.csv: 34
+The_Bahamas.csv: 6666
+São_Tomé_and_Príncipe.csv: 5
+Zambia.csv: 34
+Djibouti.csv: 2
+Angola.csv: 1823
+Cambodia.csv: 109
+South_Korea.csv: 366
+Lesotho.csv: 12
+Saudi_Arabia.csv: 72
+Namibia.csv: 1015
+Iran.csv: 39
+Jamaica.csv: 207
+Tanzania.csv: 367
+Iceland.csv: 185
+Hungary.csv: 406
+Argentina.csv: 28452
+China.csv: 3361
+Kazakhstan.csv: 16
+Poland.csv: 508
+Guernsey.csv: 30
+Venezuela.csv: 40
+Colombia.csv: 1338
+Liberia.csv: 2
+Samoa.csv: 62
+Afghanistan.csv: 6
+Kenya.csv: 210
+Bolivia.csv: 7710
+Guatemala.csv: 394
+Russia.csv: 496
+Ghana.csv: 543
+El_Salvador.csv: 68
+Rwanda.csv: 34
+Honduras.csv: 46
+Armenia.csv: 13247
+Taiwan.csv: 889
+Isle_of_Man.csv: 26
+Kosovo.csv: 1106
+Greenland.csv: 4
+Algeria.csv: 5591
+Cape_Verde.csv: 12
+Estonia.csv: 56
+Falkland_Islands.csv: 1
+Kyrgyzstan.csv: 2
+Cuba.csv: 128
+New_Zealand.csv: 869
+Laos.csv: 35
+Tunisia.csv: 1040
+Ukraine.csv: 124
+Guinea.csv: 2
+Total: 725466
