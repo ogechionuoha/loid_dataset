@@ -26,12 +26,13 @@ def download_and_resize(country, im_id, im_url):
             save_path = os.path.join(save_dir,im_id,im_url.split('/')[-1])
 
         if not os.path.isfile(save_path):
+            print(save_path, im_url)
             img = url_to_image(im_url)
             cv2.imwrite(save_path,img)
         else:
             print('Already saved: ' + save_path)
     except Exception as e:
-        #print(e)
+        print(e)
         with open("./log/bad.txt", "a") as bad:
             bad.write(save_path)
             bad.write("\n")
@@ -55,6 +56,8 @@ def main():
                                     for image_id, image_data in enumerate(train_reader)]
             pool.close()
             pool.join()
+        
+        break
 
 
 
