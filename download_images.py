@@ -8,7 +8,7 @@ class AppURLopener(urllib.request.FancyURLopener):
 
 opener = AppURLopener()
 def url_to_image(url):
-    resp = opener.open(url)
+    resp = urllib.request.urlopen(url)#opener.open(url)
     image = np.asarray(bytearray(resp.read()), dtype="uint8")
     image = cv2.imdecode(image, cv2.IMREAD_UNCHANGED)
     return image
@@ -32,7 +32,7 @@ def download_and_resize(country, im_id, im_url):
         else:
             print('Already saved: ' + save_path)
     except Exception as e:
-        print(e)
+        #print(e)
         with open("./log/bad.txt", "a") as bad:
             bad.write(save_path)
             bad.write("\n")
@@ -56,8 +56,6 @@ def main():
                                     for image_id, image_data in enumerate(train_reader)]
             pool.close()
             pool.join()
-        
-        break
 
 
 
